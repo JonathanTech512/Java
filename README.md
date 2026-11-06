@@ -1,2 +1,2 @@
 # Java
-Aprendendo Java. :)
+Aprendendo Java.
